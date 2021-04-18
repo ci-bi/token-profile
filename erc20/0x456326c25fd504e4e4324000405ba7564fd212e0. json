@@ -1,0 +1,18 @@
+{
+    "symbol": "CI",
+    "address": "0x456326c25fd504e4e4324000405ba7564fd212e0",
+    "overview": {
+        "en": "Car Internet (CI) is an ecological open platform of Internet of vehicles, which provides one-stop service for the application ecology of Internet of vehicles. It provides data space rental network based on distributed cloud storage, automobile application platform based on artificial intelligence speech recognition interaction, and open ecological platform for third-party developers. Strive to become the ecological infrastructure of the Internet of vehicles.",
+        "zh": "Car Internet (简称CI) 是车联网生态开放平台，为汽车互联网应用生态提供一站式服务。提供基于分布式云存储的数据空间租赁网络，提供基于人工智能语音识别交互的汽车应用平台，以及向第三方开发者提供开放式生态平台。致力成为车联网生态的基础设施。"
+    },
+    "email": "CIOSBC@sina.com",
+    "website": "http://ci.bi",
+    "state": "NORMAL",
+    "published_on": "2019-11-23",
+    "initial_price": {
+        "USD": "$0.4 USD"
+    },
+    "links": {
+        "github": "https://github.com/ci-bi/CIToken.git"
+    }
+}
